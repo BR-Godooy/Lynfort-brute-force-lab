@@ -1,0 +1,12 @@
+# Segredos e arquivos de execução
+.env
+.env.*
+*cookie*
+*session*.txt
+*cabecalhos*
+*resposta.html
+*.log
+*-reexecucao.txt
+__pycache__/
+.DS_Store
+Thumbs.db
