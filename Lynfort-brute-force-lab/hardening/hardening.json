@@ -1,0 +1,47 @@
+{
+  "documentType": "codex-security.hardening-analysis",
+  "schemaVersion": "1.0",
+  "analysisId": "lynfort_auth_lab_20261023",
+  "sourceEvidence": {
+    "kind": "document_collection",
+    "label": "Treze capturas dos laboratórios FTP, DVWA, SMB e rede do Kali",
+    "collectionSha256": "b8360e23ad7c18dce423a8c3ac1ee760e52381d21e1c8570454de5b65d5b6bc9",
+    "artifactCount": 13,
+    "sourceDrift": "unknown",
+    "manifestPath": "../docs/manifesto-evidencias.json"
+  },
+  "assessment": {
+    "outcome": "local_remediation_preferred",
+    "summary": "Recomendar controles locais e retestes em clone: credenciais, exposição, transporte, automação e permissões. Nenhuma defesa implementada ou validada nesta análise."
+  },
+  "constraints": {
+    "profile": "balanced",
+    "changeHorizons": [
+      "incremental"
+    ],
+    "nonNegotiables": [
+      "Preservar evidências originais",
+      "Não publicar sessão",
+      "Não executar alvos externos"
+    ],
+    "assumptions": [
+      "Somente capturas fornecidas, sem logs originais ou código do alvo.",
+      "Nenhuma medição de recursos ou disponibilidade.",
+      "Credenciais padrão conhecidas foram controles deliberados."
+    ]
+  },
+  "opportunities": [],
+  "openQuestions": [
+    "Configuração integral de adaptadores e rotas não fornecida.",
+    "Políticas de bloqueio e MFA não avaliadas.",
+    "Permissões de leitura e escrita SMB não avaliadas.",
+    "Escolha de plataforma mantida e compatibilidade para futura migração."
+  ],
+  "review": {
+    "mode": "documentary",
+    "networkTestsRun": false,
+    "automatedScanRun": false,
+    "mitigationsImplemented": false,
+    "sourceInspected": false
+  }
+}

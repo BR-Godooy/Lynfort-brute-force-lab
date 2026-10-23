@@ -1,0 +1,80 @@
+[
+  {
+    "path": "screenshots/01-kali-ip.png",
+    "source_name": "01-Kali-ip.png",
+    "sha256": "76bfe84da318a68a5b97df24fb326e9229fba439c7498556b68cbbdae0874346",
+    "bytes": 16974
+  },
+  {
+    "path": "screenshots/02-kali-rede-host-only.png",
+    "source_name": "Captura da configuração do Adaptador 1 do Kali",
+    "sha256": "ed257d4409c229da82dfb7aa1a14c687aec5e72cb64205d4c5511fe4d9e762e6",
+    "bytes": 77300
+  },
+  {
+    "path": "screenshots/04-reconhecimento-servicos-nmap.png",
+    "source_name": "04-reconhecimento-servicos-nmap.png",
+    "sha256": "3293af3d6b19b5ee99015a505677e81106e4a3def92a292057f3f35051cfe4b1",
+    "bytes": 133961
+  },
+  {
+    "path": "screenshots/07-ftp-medusa.png",
+    "source_name": "07-ftp-medusa.png",
+    "sha256": "c65d5feba68d3b13f5c0d573704c78df10f472193c0b42782207657b8c956a2b",
+    "bytes": 44284
+  },
+  {
+    "path": "screenshots/08-ftp-validacao-manual.png",
+    "source_name": "08-ftp-validacao-manual.png",
+    "sha256": "e0e121777f1b034fa16e0fc8e4d051493583419edede291399853917d052b8b6",
+    "bytes": 51757
+  },
+  {
+    "path": "screenshots/09-dvwa-seguranca-inicial-high.png",
+    "source_name": "09-dvwa-segurnaca-inicial-high.png",
+    "sha256": "3865bd891134642f05a88ec49c715a9f5319beaf7ec75c4bea7ec62f51d3a003",
+    "bytes": 153521
+  },
+  {
+    "path": "screenshots/10-dvwa-seguranca-low.png",
+    "source_name": "10-dvwa-segurnaca-inicial-low.png",
+    "sha256": "a5e08346ec6c396c6d1f1077bb0541ea6c2bbb9cfd541ee033e5224dd8ce4317",
+    "bytes": 122738
+  },
+  {
+    "path": "screenshots/11-dvwa-tentativa-invalida.png",
+    "source_name": "11-dvwa-tentatica-invalidada.png",
+    "sha256": "1256a6764d903f320c89bdeda608ece4374425cd966184fdc1c1dab487a90eb9",
+    "bytes": 117593
+  },
+  {
+    "path": "screenshots/12-dvwa-medusa.png",
+    "source_name": "12-dvwa-medusa.png",
+    "sha256": "12ec89953baa9d8445403b8790ea61f7b5dcceb299418be85dabed0a565c2a9e",
+    "bytes": 52169
+  },
+  {
+    "path": "screenshots/13-dvwa-validacao-manual.png",
+    "source_name": "13-dvwa-validacao-manual.png",
+    "sha256": "edd21310ab6f8276c286842351ce127118b4f2e78b860eb0aa80d1d2795ff3cf",
+    "bytes": 119587
+  },
+  {
+    "path": "screenshots/15-smb-enumeracao-usuarios.png",
+    "source_name": "15-smb-enumeracao-usuarios.png",
+    "sha256": "7ad7c6ffe398f3337b521b0f90280d1f15e0dc644bbb96571ed015e53b4c343a",
+    "bytes": 76007
+  },
+  {
+    "path": "screenshots/16-smb-spraying.png",
+    "source_name": "16-smb-spraying.png",
+    "sha256": "9ccaf8b99370b564c030f9f47ba7bda6e9ade0b073bd93de5a5fdd4b69abb7e6",
+    "bytes": 38246
+  },
+  {
+    "path": "screenshots/17-smb-validacao-manual.png",
+    "source_name": "17-smb-validacao-manual.png",
+    "sha256": "5c572c74a1ebbd7e6d917871d199ec46c1a963f7cd9f857d92993f730f4d30b3",
+    "bytes": 34829
+  }
+]

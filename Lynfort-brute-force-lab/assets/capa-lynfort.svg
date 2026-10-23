@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="title desc">
+  <title id="title">Lynfort — Brute Force Lab</title>
+  <desc id="desc">Autenticação sob teste. Laboratório educacional DIO de Victor Godoy com Kali Linux, Medusa e três cenários: FTP, Web e SMB.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151820"/>
+      <stop offset="1" stop-color="#1d222c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="430" rx="20" fill="url(#background)"/>
+  <path d="M20 0H8A8 8 0 0 0 0 8V422A8 8 0 0 0 8 430H20Z" fill="#ffd600"/>
+  <g fill="none" stroke="#39414e" stroke-width="1.5">
+    <path d="M998 110H1364M76 110H930"/>
+    <path d="M970 344H1364"/>
+    <path d="M1317 110V149H1364M1317 344V305H1364"/>
+    <circle cx="1186" cy="227" r="117"/>
+    <circle cx="1186" cy="227" r="145" stroke-dasharray="2 15"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="76" fill="#ffd600" font-size="27" font-weight="700" letter-spacing="6">LYNFORT</text>
+    <text x="1364" y="73" fill="#bdc5d1" font-size="17" text-anchor="end" letter-spacing="2">LABORATÓRIO EDUCACIONAL</text>
+    <text x="73" y="210" fill="#f5f5f0" font-size="76" font-weight="700" letter-spacing="-2">Brute Force Lab</text>
+    <text x="76" y="263" fill="#bdc5d1" font-size="32">Autenticação sob teste</text>
+    <text x="76" y="338" fill="#ffd600" font-size="22" font-weight="700" letter-spacing="3">FTP</text>
+    <circle cx="143" cy="330" r="3" fill="#697283"/>
+    <text x="166" y="338" fill="#ffd600" font-size="22" font-weight="700" letter-spacing="3">WEB</text>
+    <circle cx="246" cy="330" r="3" fill="#697283"/>
+    <text x="269" y="338" fill="#ffd600" font-size="22" font-weight="700" letter-spacing="3">SMB</text>
+    <text x="76" y="390" fill="#bdc5d1" font-size="19">Kali Linux + Medusa</text>
+    <text x="1364" y="390" fill="#bdc5d1" font-size="19" text-anchor="end">DIO / Victor Godoy</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1154 210V187A32 32 0 0 1 1218 187V210" stroke="#ffd600" stroke-width="7"/>
+    <rect x="1134" y="210" width="104" height="78" rx="10" fill="#ffd600" stroke="#ffd600" stroke-width="3"/>
+    <path d="M1186 246V261" stroke="#151820" stroke-width="6"/>
+    <circle cx="1186" cy="243" r="7" fill="#151820" stroke="none"/>
+    <path d="M1069 227H1036M1303 227H1336M1186 110V93M1186 344V361" stroke="#ffd600" stroke-width="3"/>
+  </g>
+  <g fill="#ffd600">
+    <circle cx="1032" cy="227" r="5"/>
+    <circle cx="1340" cy="227" r="5"/>
+    <circle cx="1186" cy="93" r="4"/>
+    <circle cx="1186" cy="361" r="4"/>
+  </g>
+</svg>
